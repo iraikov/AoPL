@@ -51,10 +51,10 @@ SOURCES=$(TESTS) \
 			IntBoolTyping.hs 
 
 verb: anatomyVerbatim.pdf
-	open anatomyVerbatim.pdf
+
 
 pretty: anatomy.pdf
-	open anatomy.pdf
+
 
 updates: new.lhs
 
